@@ -1,0 +1,4 @@
+browser
+=======
+
+JS Browser detector
